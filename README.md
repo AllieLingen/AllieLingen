@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AllieLingen
-- 👀 I’m interested in breaking into the tech industry!
-- 🌱 I’m currently learning Cybersecurity, Python, the Command Line and a few other tools
+- 👀 I’m a Data Analyst!
+- 🌱 I’m building projects with SQL, Python, Tableau, and Excel
 - 📫 How to reach me: https://www.linkedin.com/in/alyssa-lingen/
 
 <!---
